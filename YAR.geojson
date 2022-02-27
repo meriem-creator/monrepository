@@ -1,0 +1,30 @@
+var h = {
+"type": "FeatureCollection",
+"name": "YAR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 1, "Nb_acciden": 14, "situation": "Route Jadida angle B. Jrada." }, "geometry": { "type": "Point", "coordinates": [ -7.644931138171163, 33.563796075499404 ] } },
+{ "type": "Feature", "properties": { "Id": 2, "Nb_acciden": 10, "situation": "Avenu Hassan II" }, "geometry": { "type": "Point", "coordinates": [ -7.623495374375669, 33.583404836528914 ] } },
+{ "type": "Feature", "properties": { "Id": 3, "Nb_acciden": 12, "situation": "Rue annoussour angle B. Med zerktouni" }, "geometry": { "type": "Point", "coordinates": [ -7.621116620127687, 33.583024840351115 ] } },
+{ "type": "Feature", "properties": { "Id": 4, "Nb_acciden": 11, "situation": "Avenue Hassan II angle B. Rachidi" }, "geometry": { "type": "Point", "coordinates": [ -7.619738414058233, 33.590125997716235 ] } },
+{ "type": "Feature", "properties": { "Id": 5, "Nb_acciden": 18, "situation": "Avenu FAR angle B. Taher Alaoui" }, "geometry": { "type": "Point", "coordinates": [ -7.6214942780186, 33.594926506568257 ] } },
+{ "type": "Feature", "properties": { "Id": 6, "Nb_acciden": 14, "situation": "Avenue 2-Mars angle rue 21" }, "geometry": { "type": "Point", "coordinates": [ -7.602290129033073, 33.54696458283189 ] } },
+{ "type": "Feature", "properties": { "Id": 7, "Nb_acciden": 12, "situation": "B. Inezgane angle B. panoramiquE" }, "geometry": { "type": "Point", "coordinates": [ -7.599953064292529, 33.554807493681423 ] } },
+{ "type": "Feature", "properties": { "Id": 21, "Nb_acciden": 12, "situation": "B. El Fida à la rue 21" }, "geometry": { "type": "Point", "coordinates": [ -7.598717093013165, 33.571711015651474 ] } },
+{ "type": "Feature", "properties": { "Id": 8, "Nb_acciden": 24, "situation": "B. Mohammed VI angle B. Dakhla" }, "geometry": { "type": "Point", "coordinates": [ -7.579939648397888, 33.541951900153975 ] } },
+{ "type": "Feature", "properties": { "Id": 9, "Nb_acciden": 14, "situation": "Avenue 6-Novembre à hauteur de rue 14" }, "geometry": { "type": "Point", "coordinates": [ -7.583377806599612, 33.552224265651944 ] } },
+{ "type": "Feature", "properties": { "Id": 10, "Nb_acciden": 12, "situation": "Avenue Lahraouine angle B. Driss Elharti" }, "geometry": { "type": "Point", "coordinates": [ -7.57341156199775, 33.547948690054987 ] } },
+{ "type": "Feature", "properties": { "Id": 11, "Nb_acciden": 10, "situation": "B. Al joulane angle B. Reda Ghedira" }, "geometry": { "type": "Point", "coordinates": [ -7.572567962553105, 33.556180823968425 ] } },
+{ "type": "Feature", "properties": { "Id": 12, "Nb_acciden": 13, "situation": "Avenue Reda guedira hauteur rue 27" }, "geometry": { "type": "Point", "coordinates": [ -7.575824648781269, 33.554263877744447 ] } },
+{ "type": "Feature", "properties": { "Id": 13, "Nb_acciden": 13, "situation": "B. Al joulane angle B. Abdou Houraira" }, "geometry": { "type": "Point", "coordinates": [ -7.575510751313492, 33.559981892160636 ] } },
+{ "type": "Feature", "properties": { "Id": 22, "Nb_acciden": 23, "situation": "B. Abou Houraira hauteur rue 48" }, "geometry": { "type": "Point", "coordinates": [ -7.573941263974617, 33.560905567338928 ] } },
+{ "type": "Feature", "properties": { "Id": 14, "Nb_acciden": 11, "situation": "B. Al joulane angle B. de la G. ceinture" }, "geometry": { "type": "Point", "coordinates": [ -7.580209404034251, 33.571751880892144 ] } },
+{ "type": "Feature", "properties": { "Id": 23, "Nb_acciden": 12, "situation": "Avenue 10-Mars 1982 angle B. Abou Hourai" }, "geometry": { "type": "Point", "coordinates": [ -7.569066043928228, 33.563954442716124 ] } },
+{ "type": "Feature", "properties": { "Id": 15, "Nb_acciden": 16, "situation": "Avenue 10-Mars 1982 angle rue 23" }, "geometry": { "type": "Point", "coordinates": [ -7.564779381633921, 33.560962785830355 ] } },
+{ "type": "Feature", "properties": { "Id": 16, "Nb_acciden": 11, "situation": "Avenue 10-Mars 1982 angle avenue Bouzian" }, "geometry": { "type": "Point", "coordinates": [ -7.562650764430573, 33.560227116622471 ] } },
+{ "type": "Feature", "properties": { "Id": 17, "Nb_acciden": 16, "situation": "B. commendant Driss Elharti" }, "geometry": { "type": "Point", "coordinates": [ -7.556480717329613, 33.558150860837472 ] } },
+{ "type": "Feature", "properties": { "Id": 18, "Nb_acciden": 38, "situation": "B. Driss Harti angle avenue 10-Mars" }, "geometry": { "type": "Point", "coordinates": [ -7.558952659888343, 33.556663119305568 ] } },
+{ "type": "Feature", "properties": { "Id": 19, "Nb_acciden": 11, "situation": "B. G ceinture angle avenue Okba Bn nafii" }, "geometry": { "type": "Point", "coordinates": [ -7.563739596271915, 33.580937896028473 ] } },
+{ "type": "Feature", "properties": { "Id": 20, "Nb_acciden": 11, "situation": "B. de la gare angle rue 4" }, "geometry": { "type": "Point", "coordinates": [ -7.525811953798391, 33.609731839930774 ] } }
+]
+}
